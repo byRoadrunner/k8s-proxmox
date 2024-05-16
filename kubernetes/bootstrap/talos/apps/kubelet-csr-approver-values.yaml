@@ -1,0 +1,3 @@
+---
+providerRegex: ^(proxmox-cp-01|proxmox-cp-02|proxmox-cp-03|proxmox-wk-01|proxmox-wk-02)$
+bypassDnsResolution: true
